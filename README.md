@@ -1,4 +1,7 @@
 # World_Weather_Analysis
+Help PLANMYTRIP, a travel technology company that specialize in internet related services in the hotel and loding industry to collect and present for customer via the search page. Which will then filter based on their preferred travel criteria in order to find their ideal hotel anywhere in the world. 
+1. Within a given range of latitude and longitude 
+2. Provided the right kind of weather and hotel for the client
 
 ## Project Overview
 - Deliverable 1: Retrieve Weather Data <br>
